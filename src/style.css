@@ -32,7 +32,7 @@
   max-width: 300px;
 }
 .tile {
-  border: 1 px solid white;
+  border: 1px solid white;
   min-width: 100px;
   min-height: 100px;
   display: flex;
